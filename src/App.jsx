@@ -299,9 +299,9 @@ function App() {
           className="w-full grid md:grid-cols-2 grid-cols-1 md:gap-16 gap-6 mt-20"
         >
           <div className="flex gap-2">
-            <div className="text-text_white text-5xl font-normal">
+            <div className="text-text_white lg:text-5xl md:text-3xl text-2xl font-normal">
               We are{" "}
-              <span className="text-text_green text-5xl font-normal">
+              <span className="text-text_green lg:text-5xl md:text-3xl text-2xl font-normal">
                 commited
               </span>
             </div>
@@ -311,9 +311,9 @@ function App() {
             Handshake infographic mass market crowdfunding iteration.
           </div>
           <div className="flex gap-2">
-            <div className="text-text_white text-5xl font-normal">
+            <div className="text-text_white lg:text-5xl md:text-3xl text-2xl font-normal">
               We are{" "}
-              <span className="text-text_green text-5xl font-normal">
+              <span className="text-text_green lg:text-5xl md:text-3xl text-2xl font-normal">
                 responsible
               </span>
             </div>
@@ -324,9 +324,9 @@ function App() {
             Return on investment seed round MVP backing supply chain.
           </div>
           <div className="flex gap-2">
-            <div className="text-text_white text-5xl font-normal">
+            <div className="text-text_white lg:text-5xl md:text-3xl text-2xl font-normal">
               We aim for{" "}
-              <span className="text-text_green text-5xl font-normal">
+              <span className="text-text_green lg:text-5xl md:text-3xl text-2xl font-normal">
                 progress
               </span>
             </div>
