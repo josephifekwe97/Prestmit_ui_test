@@ -296,7 +296,7 @@ function App() {
         <div
           data-aos="fade-left"
           data-aos-duration="2000"
-          className="w-full grid md:grid-cols-2 grid-cols-1 md:gap-16 gap-6 mt-20"
+          className="w-full grid md:grid-cols-2 grid-cols-1 md:gap-16 gap-2 mt-20"
         >
           <div className="flex gap-2">
             <div className="text-text_white lg:text-5xl md:text-3xl text-2xl font-normal">
@@ -306,7 +306,7 @@ function App() {
               </span>
             </div>
           </div>
-          <div className="text-xl text-text_grey font-normal px-[2%]">
+          <div className="text-xl text-text_grey font-normal md:px-[2%] md:mt-0 mb-[4%]">
             Conversion angel investor entrepreneur first mover advantage.
             Handshake infographic mass market crowdfunding iteration.
           </div>
@@ -318,7 +318,7 @@ function App() {
               </span>
             </div>
           </div>
-          <div className="text-xl text-text_grey font-normal px-[2%]">
+          <div className="text-xl text-text_grey font-normal md:px-[2%] md:mt-0 mb-[4%]">
             Mass market iPhone buzz conversion analytics stock iteration
             responsive web design user experience business plan handshake.
             Return on investment seed round MVP backing supply chain.
@@ -331,7 +331,7 @@ function App() {
               </span>
             </div>
           </div>
-          <div className="text-xl text-text_grey font-normal px-[2%]">
+          <div className="text-xl text-text_grey font-normal md:px-[2%] md:mt-0 mb-[4%]">
             Bootstrapping rockstar first mover advantage business model canvas
             alpha deployment launch party beta facebook metrics gamification
             growth hacking customer focus.
